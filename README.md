@@ -1,6 +1,6 @@
 Version 1.0
 control.sh shows you
-- Temperature in Celsius
-- Spannung in Volt
-- Taktrate in Hz
+- temperature in celsius
+- Voltage in Volt 
+- clock rate from arm in Hz
 
